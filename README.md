@@ -1,5 +1,7 @@
 ## Django social media application
-
+<br>
+Build Status : 
+<br>
 Welcome to Socialgram, a collaborative social web project! Our team, including Sahil Adhikari, Aditya Verma, Mufeeda, and Sonakshi, crafted this platform using Django, HTML, CSS, and Tailwind CSS. We warmly invite you to contribute by submitting pull requests or reporting issues. Let's build something amazing together!
 
 <div style="display: inline_block"><br>
