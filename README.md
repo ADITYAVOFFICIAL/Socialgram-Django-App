@@ -1,6 +1,6 @@
 ## Django social media application
 
-Django project for FDS mini project
+Welcome to Socialgram, a collaborative social web project! Our team, including Sahil Adhikari, Aditya Verma, Mufeeda, and Sonakshi, crafted this platform using Django, HTML, CSS, and Tailwind CSS. We warmly invite you to contribute by submitting pull requests or reporting issues. Let's build something amazing together!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
