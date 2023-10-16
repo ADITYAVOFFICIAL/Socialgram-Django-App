@@ -22,7 +22,7 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<div><h2><strong>Developers of this Repository -</strong></h2></div>
+<div><h2><strong>𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣𝕤 𝕠𝕗 𝕥𝕙𝕚𝕤 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪 -</strong></h2></div>
 
 <table align="center">
 <tr align="center">
