@@ -31,7 +31,7 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 **Aditya Verma**
 
 <p align="center">
-<img src = "https://adityaver.netlify.app/html/main/assets/images/profile2.png"  height="120" alt="Aditya Verma">
+<img src = "https://media.licdn.com/dms/image/D4D03AQF1luS3hPkQBQ/profile-displayphoto-shrink_800_800/0/1684467990964?e=2147483647&v=beta&t=_6RJZO5tFFeArt0x1Ba2m6cE2qkZtWiTyNUaOwIDtg4"  height="120" alt="Aditya Verma">
 </p>
 <p align="center">
 <a href = "https://github.com/ADITYAVOFFICIAL"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -45,10 +45,10 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 **Sahil Adhikari**
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+<img src = "https://avatars.githubusercontent.com/u/116698850?v=4"  height="120" alt="Aryan Raj">
 </p>
 <p align="center">
-<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
@@ -59,12 +59,12 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 **Sonakshi**
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/93485049?v=4"  height="120" alt="Aakash">
+<img src = ""  height="120" alt="Aakash">
 </p>
 <p align="center">
   
-<a href = "https://github.com/Aakash-sittu"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aakash-sittu/">
+<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
