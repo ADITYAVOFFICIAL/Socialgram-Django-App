@@ -28,7 +28,7 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 <tr align="center">
 <td>
 
-Aditya Verma
+ΛDIƬYΛ VΣЯMΛ
 
 <p align="center">
 <img src = "https://media.licdn.com/dms/image/D4D03AQF1luS3hPkQBQ/profile-displayphoto-shrink_800_800/0/1684467990964?e=2147483647&v=beta&t=_6RJZO5tFFeArt0x1Ba2m6cE2qkZtWiTyNUaOwIDtg4"  height="120" alt="Aditya Verma">
@@ -42,7 +42,7 @@ Aditya Verma
 </td>
 
 <td>
-Sahil Adhikari
+𝗦𝗮𝗵𝗶𝗹 𝗔𝗱𝗵𝗶𝗸𝗮𝗿𝗶
 
 <p align="center">
 <img src = "https://avatars.githubusercontent.com/u/116698850?v=4"  height="120" alt="Aryan Raj">
@@ -57,7 +57,7 @@ Sahil Adhikari
 
 <td>
   
-Sonakshi
+𝗦𝗼𝗻𝗮𝗸𝘀𝗵𝗶
 
 <p align="center">
 <img src = ""  height="120" alt="Sonakshi">
@@ -72,7 +72,7 @@ Sonakshi
 </td>
 <td>
 
-Mufeeda
+𝗠𝘂𝗳𝗲𝗲𝗱𝗮
 
 <p align="center">
 <img src="" height="120" alt="Mufeeda">
