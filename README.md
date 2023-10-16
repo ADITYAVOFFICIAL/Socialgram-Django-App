@@ -1,4 +1,4 @@
-## Django social media application
+## Django Social Media Application
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
 ![Status](https://img.shields.io/website-up-down-green-red/https/sihmavericks.netlify.app.svg)
 ![Forks](https://img.shields.io/github/forks/Sahilopl/Socialgram-Django-App.svg)
