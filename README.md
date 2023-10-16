@@ -22,3 +22,52 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div><h2><strong>Developers of this Repository -</strong></h2></div>
+
+<table align="center">
+<tr align="center">
+<td>
+
+**Aditya Verma**
+
+<p align="center">
+<img src = "https://adityaver.netlify.app/html/main/assets/images/profile2.png"  height="120" alt="Aditya Verma">
+</p>
+<p align="center">
+<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aditya-verma-real/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+**Sahil Adhikari**
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/75358720?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/aryanraj2713"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+**Sonakshi**
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/93485049?v=4"  height="120" alt="Aakash">
+</p>
+<p align="center">
+  
+<a href = "https://github.com/Aakash-sittu"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aakash-sittu/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+</table>
