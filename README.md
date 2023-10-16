@@ -1,6 +1,6 @@
 ## Django social media application
 <p style="margin-bottom:10px">
-Build Status : 
+Build Status :
   <p>
 Welcome to Socialgram, a collaborative social web project! Our team, including Sahil Adhikari, Aditya Verma, Mufeeda, and Sonakshi, crafted this platform using Django, HTML, CSS, and Tailwind CSS. We warmly invite you to contribute by submitting pull requests or reporting issues. Let's build something amazing together!
 
@@ -22,3 +22,68 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div><h2><strong>𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣𝕤 𝕠𝕗 𝕥𝕙𝕚𝕤 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪 -</strong></h2></div>
+
+<table align="center">
+<tr align="center">
+<td>
+
+**ΛDIƬYΛ VΣЯMΛ**
+
+<p align="center">
+<img src = "https://media.licdn.com/dms/image/D4D03AQF1luS3hPkQBQ/profile-displayphoto-shrink_800_800/0/1684467990964?e=2147483647&v=beta&t=_6RJZO5tFFeArt0x1Ba2m6cE2qkZtWiTyNUaOwIDtg4"  height="120" alt="Aditya Verma">
+</p>
+<p align="center">
+<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/aditya-verma-real/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+𝗦𝗮𝗵𝗶𝗹 𝗔𝗱𝗵𝗶𝗸𝗮𝗿𝗶
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/116698850?v=4"  height="120" alt="Aryan Raj">
+</p>
+<p align="center">
+<a href = "https://github.com/Sahilopl"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/sahil-adhikari-57b445250/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+  
+𝗦𝗼𝗻𝗮𝗸𝘀𝗵𝗶
+
+<p align="center">
+<img src = ""  height="120" alt="Sonakshi">
+</p>
+<p align="center">
+  
+<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+<td>
+
+𝗠𝘂𝗳𝗲𝗲𝗱𝗮
+
+<p align="center">
+<img src="" height="120" alt="Mufeeda">
+</p>
+<p align="center">
+<a href="https://github.com/"><img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/></a>
+<a href="https://www.linkedin.com/in/">
+<img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+</table>
