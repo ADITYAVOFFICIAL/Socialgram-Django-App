@@ -28,7 +28,7 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 <tr align="center">
 <td>
 
-ΛDIƬYΛ VΣЯMΛ
+**ΛDIƬYΛ VΣЯMΛ**
 
 <p align="center">
 <img src = "https://media.licdn.com/dms/image/D4D03AQF1luS3hPkQBQ/profile-displayphoto-shrink_800_800/0/1684467990964?e=2147483647&v=beta&t=_6RJZO5tFFeArt0x1Ba2m6cE2qkZtWiTyNUaOwIDtg4"  height="120" alt="Aditya Verma">
