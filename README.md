@@ -8,6 +8,7 @@
   <p>
 Welcome to Socialgram, a collaborative social web project! Our team, including Sahil Adhikari, Aditya Verma, Mufeeda, and Sonakshi, crafted this platform using Django, HTML, CSS, and Tailwind CSS. We warmly invite you to contribute by submitting pull requests or reporting issues. Let's build something amazing together!
 
+ ## Current Tech Stack 🔻
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Django" height="30" width="70" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
@@ -17,7 +18,7 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
   <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
   
-<div><h2><strong>𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣𝕤 𝕠𝕗 𝕥𝕙𝕚𝕤 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕪 -</strong></h2></div>
+<div><h2><strong>Developers of this repository 🔻</strong></h2></div>
 
 <table align="center">
 <tr align="center">
@@ -82,3 +83,10 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 
 
 </table>
+
+ ## Current Contributors 🔻
+<div align="center">
+  <a href="https://github.com/Sahilopl/Socialgram-Django-App/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Sahilopl/Socialgram-Django-App" />
+</a>
+</div>
