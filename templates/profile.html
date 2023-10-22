@@ -42,9 +42,13 @@
 					{% endif %}
 
 					{% if user_followers == 0 or user_followers == 1 %}
-					<span style="color: white; font-size: 27px;"><b>{{user_followers}} follower</b></span>
+					<a href="{% url "followers-page" user_profile.user.username %}" style="border-radius: none !important; color: inherit !important; font-size: inherit !important; padding: inherit !important; border: none !important; background-color: inherit !important;">
+						<span style="color: white; font-size: 27px;"><b>{{user_followers}} follower</b></span>
+					</a>
 					{% else %}
-					<span style="color: white; font-size: 27px;"><b>{{user_followers}} followers</b></span>
+					<a href="{% url "followers-page" user_profile.user.username %}" style="border-radius: none !important; color: inherit !important; font-size: inherit !important; padding: inherit !important; border: none !important; background-color: inherit !important;">
+						<span style="color: white; font-size: 27px;"><b>{{user_followers}} followers</b></span>
+					</a>
 					{% endif %}
 
 

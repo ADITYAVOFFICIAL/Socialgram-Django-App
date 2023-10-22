@@ -6,6 +6,7 @@ from django.contrib.auth.decorators import login_required
 from .models import Profile, Post, LikePost, FollowersCount
 from itertools import chain
 import random
+from django.core.paginator import Paginator
 
 # Create your views here.
 
@@ -159,6 +160,28 @@ def follow(request):
             return redirect('/profile/'+user)
     else:
         return redirect('/')
+    
+@login_required(login_url='signin')
+def followers_page(request, username):
+    FollowersCount_db = FollowersCount.objects.filter(user__contains=username)
+    # print(FollowersCount_db)
+    user_profile_data = []
+
+    for data in FollowersCount_db:
+        profile_data = Profile.objects.filter(user__username__icontains=data.follower)
+        user_profile_data.append(profile_data)
+
+
+    user_profile_data = list(chain(*user_profile_data))
+    # print(user_profile_data)
+
+    paginator = Paginator(user_profile_data, 3)
+    page_number = request.GET.get('page')
+    profile_page = paginator.get_page(page_number)
+
+    context = {'profile': profile_page, 'user_profile': Profile.objects.filter(id_user=request.user.id).first()}
+
+    return render(request, 'followers.html', context)
 
 @login_required(login_url='signin')
 def settings(request):
