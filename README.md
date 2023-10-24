@@ -31,9 +31,12 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 <img src = "https://raw.githubusercontent.com/ADITYAVOFFICIAL/ADITYAVOFFICIAL/main/pics/adityav.png"  height="120" alt="Aditya Verma">
 </p>
 <p align="center">
-<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/ADITYAVOFFICIAL"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/aditya-verma-real/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
+</a>
+<a href = "https://medium.com/@adityaver">
+<img src = "https://img.icons8.com/stickers/100/medium-logo.png" width="36" height="36"/>
 </a>
 </p>
 </td>
@@ -45,44 +48,12 @@ Welcome to Socialgram, a collaborative social web project! Our team, including S
 <img src = "https://avatars.githubusercontent.com/u/116698850?v=4"  height="120" alt="Aryan Raj">
 </p>
 <p align="center">
-<a href = "https://github.com/Sahilopl"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://github.com/Sahilopl"><img src = "https://img.icons8.com/3d-fluency/94/github.png" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/sahil-adhikari-57b445250/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+<img src = "https://img.icons8.com/color/48/linkedin.png" width="36" height="36"/>
 </a>
 </p>
 </td>
-
-<td>
-  
-𝗦𝗼𝗻𝗮𝗸𝘀𝗵𝗶
-
-<p align="center">
-<img src = ""  height="120" alt="Sonakshi">
-</p>
-<p align="center">
-  
-<a href = "https://github.com/"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-<td>
-
-𝗠𝘂𝗳𝗲𝗲𝗱𝗮
-
-<p align="center">
-<img src="" height="120" alt="Mufeeda">
-</p>
-<p align="center">
-<a href="https://github.com/"><img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/></a>
-<a href="https://www.linkedin.com/in/">
-<img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
 </table>
 
  ## Current Contributors 🔻
