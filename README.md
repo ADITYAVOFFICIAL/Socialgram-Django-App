@@ -7,7 +7,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 [![HitCount](https://hits.dwyl.com/Sahilopl/Socialgram-Django-App.svg)](https://hits.dwyl.com/Sahilopl/Socialgram-Django-App)
   <p>
-Welcome to Socialgram, a collaborative social web project! Our team, including Sahil Adhikari, Aditya Verma, Mufeeda, and Sonakshi, crafted this platform using Django, HTML, CSS, and Tailwind CSS. We warmly invite you to contribute by submitting pull requests or reporting issues. Let's build something amazing together!
+Welcome to Socialgram, a collaborative social web project! Our team, including Sahil Adhikari, Aditya Verma crafted this platform using Django, HTML, CSS, and Tailwind CSS. We warmly invite you to contribute by submitting pull requests or reporting issues. Let's build something amazing together!
 
  ## Current Tech Stack 🔻
 <div style="display: inline_block"><br>
